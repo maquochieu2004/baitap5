@@ -88,6 +88,6 @@ Hệ thống được đóng gói bằng Docker giúp triển khai nhanh, đồn
 
 <img width="1515" height="1038" alt="image" src="https://github.com/user-attachments/assets/296dd298-a0ab-4bca-8044-9181c9b7cb22" />
 
-<img width="1499" height="1049" alt="ca445c70-3e30-48a4-9c1a-a7884b2559d0" src="https://github.com/user-attachments/assets/4812995f-ddd0-4fc5-9677-e5186d099e0e" />
+<img width="1614" height="975" alt="image" src="https://github.com/user-attachments/assets/e6fbdbc9-ac31-4f1f-8d3d-b12a2bb02300" />
 
 
